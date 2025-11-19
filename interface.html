@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brain Tumor Classifier - Classification IRM</title>
+    <style>
+       /* TODO: Ajouter du CSS */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Classification de Tumeurs Cerebrales</h1>
+        <p style="text-align: center; color: #666;">Systeme d'aide au diagnostic par IRM</p>
+        
+        <div class="upload-section">
+            <form id="uploadForm" enctype="multipart/form-data">
+                <input type="file" id="imageInput" accept="image/*" required>
+                <button type="submit">Analyser l'IRM</button>
+            </form>
+            
+            <div id="preview"></div>
+        </div>
+        
+        <div class="info">
+            <h3>Classes detectees:</h3>
+            <ul>
+                <li><strong>Gliome:</strong> Tumeur gliale</li>
+                <li><strong>Meningiome:</strong> Tumeur des meninges</li>
+                <li><strong>Tumeur pituitaire:</strong> Tumeur de la glande pituitaire</li>
+                <li><strong>Pas de tumeur:</strong> IRM normale</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
