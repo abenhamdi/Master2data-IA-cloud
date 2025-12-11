@@ -100,5 +100,4 @@ Materiel pedagogique - YNOV Montpellier - Master 2 Data
 
 ---
 
-**Formateur** : Abdelkader Ben Hamdi  
 **Annee** : 2025-2026
