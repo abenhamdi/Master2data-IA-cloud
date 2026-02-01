@@ -22,11 +22,11 @@
 
 Ce TP vous permettra de :
 
-1. ✅ Déployer un système IA en architecture microservices
-2. ✅ Implémenter des communications REST et gRPC
-3. ✅ Mettre en place un système de logging centralisé (ELK Stack)
-4. ✅ Appliquer un cadre de gouvernance IA
-5. ✅ Assurer la conformité RGPD
+1. Déployer un système IA en architecture microservices
+2. Implémenter des communications REST et gRPC
+3. Mettre en place un système de logging centralisé (ELK Stack)
+4. Appliquer un cadre de gouvernance IA
+5. Assurer la conformité RGPD
 
 ---
 
@@ -175,21 +175,6 @@ docker-compose up --build
 - Problème Docker ? → `AIDE_PARTIE2.md`
 - Question générale ? → `FAQ.md`
 
-
-## Critères d'évaluation
-
-| Critère | Points | Description |
-|---------|--------|-------------|
-| Architecture microservices | 25 | Services indépendants, communication, découplage |
-| Implémentation technique | 25 | Code propre, fonctionnel, bonnes pratiques |
-| Logging et monitoring | 15 | ELK Stack, logs centralisés, dashboards |
-| Gouvernance IA | 20 | Checklist, registre, traçabilité |
-| Conformité RGPD | 10 | Droits des personnes, anonymisation |
-| Documentation | 5 | README, commentaires, architecture |
-| **Bonus** | 10 | Rapport d'audit, Kubernetes, features avancées |
-| **TOTAL** | **110** | (100 + 10 bonus) |
-
----
 
 ### Pendant le TP
 
