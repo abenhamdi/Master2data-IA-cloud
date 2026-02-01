@@ -252,26 +252,6 @@ docker-compose up --build
 - Travail en équipe
 
 
-## Après le TP
-
-### Rendu
-
-- **Deadline** : [À définir par le formateur]
-- **Format** : Archive ZIP ou repository Git
-- **Contenu** :
-  - Code source complet
-  - README.md
-  - Documentation de gouvernance
-  - Rapport d'audit (bonus)
-
-### Évaluation
-
-- Présentation orale (10 min) : démonstration du système
-- Questions/réponses (5 min)
-- Évaluation du code et de la documentation
-
-
-
 
 *N'oubliez pas : l'objectif est d'apprendre, pas de tout finir parfaitement.*  
 *Un système partiellement fonctionnel mais bien compris vaut mieux qu'un système complet sans compréhension.*
